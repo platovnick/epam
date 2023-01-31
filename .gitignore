@@ -6,3 +6,6 @@
 
 public_html/*
 !public_html/networks
+!public_html/databases
+!public_html/bash
+!public_html/aws
