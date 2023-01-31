@@ -1,2 +1,6 @@
-# epam
-Epam Homework
+# Epam Homework Units List
+
+- Networks
+- Bash
+- Database
+- AWS
