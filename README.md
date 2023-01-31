@@ -1,6 +1,6 @@
 # Epam Homework Units List
 
-- Networks
+- [Networks](public_html/networks/networks_task.md)
 - Bash
 - Database
 - AWS
