@@ -66,13 +66,13 @@ SET DEFAULT ROLE 'defrole'@'localhost' TO 'defuser'@'localhost';
 
 **Step 10.** Create MySQL dump
 
-``` mysql
+``` bash
 mysqldump -u defuser -p localhost_stage > localhost_stage_2023_02_01.sql
 ```
 
 **Step 9** Import MySQL dump
 
-``` mysql
+``` bash
 mysql -u defuser -p localhost_stage < localhost_stage_2023_02_01.sql
 ```
 
