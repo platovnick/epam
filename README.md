@@ -1,4 +1,4 @@
-![DevOps Essentials](public_html/index-cover.png)
+![DevOps Essentials](public_html/img/index-cover.png)
 
 # Epam Homework Units List
 

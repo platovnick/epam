@@ -5,6 +5,7 @@
 !public_html/
 
 public_html/*
+!public_html/img
 !public_html/networks
 !public_html/databases
 !public_html/bash
