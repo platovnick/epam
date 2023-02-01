@@ -1,3 +1,5 @@
+![DevOps Essentials](public_html/index-cover.png)
+
 # Epam Homework Units List
 
 - [Networks](public_html/networks/networks_task.md)
