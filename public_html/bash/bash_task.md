@@ -1,3 +1,4 @@
+**The tasks will be finally completed and published by February 11, 2022**
 # Bash Scripting Tasks
 
 ## Create a data backup script that takes the following data as parameters:

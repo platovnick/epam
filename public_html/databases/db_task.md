@@ -1,3 +1,5 @@
+**The tasks will be finally completed and published by February 11, 2022.**
+
 ![MySQL Status](img/epam-homework-db-status.png)
 
 # Creating and Managing Databases in Linux

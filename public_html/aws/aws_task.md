@@ -8,9 +8,9 @@
 5. [ ] Register and pass free courses on [AWS Skillbuilder](https://explore.skillbuilder.aws/learn). AWS Cloud Practitioner Essentials: Core Services, AWS Cloud Practitioner Essentials: Cloud Concepts. Try AWS Cloud Quest: Cloud Practitioner.
 6. [ ] Pass free courses on [Amazon qwiklabs](https://amazon.qwiklabs.com/).
 7. [x] Review [Getting Started with Amazon EC2](https://aws.amazon.com/ec2/getting-started/?nc1=h_ls). Log Into Your AWS Account, Launch, Configure, Connect and Terminate Your Instance. Do not use Amazon Lightsail. It is recommended to use the t2 or t3.micro instance and the CentOS operating system.
-8. Create a snapshot of your instance to keep as a backup. 
-9. Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save some file on Disk_D. ![Mounted drive](img/2023-02-02_15-45.png)
-10. Launch the second instance from backup.
+8. [x] Create a snapshot of your instance to keep as a backup. 
+9. [x] Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save some file on Disk_D. 
+10. [ ] Launch the second instance from backup.
 11. Detach Disk_D from the 1st instance and attach disk_D to the new instance.
 12. Review the 10-minute example. Explore the possibilities of creating your own domain and domain name for your site. Note, that Route 53 not free service. Alternatively you can free register the domain name *.PP.UA and use it.
 13. Launch and configure a WordPress instance with Amazon Lightsail link
