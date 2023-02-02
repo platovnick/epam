@@ -1,3 +1,5 @@
+![AWS Cloud Cover](img/2023-02-02_15-15.png)
+
 # AWS Cloud Basic
 
 1. [x] Read the terms of Using the [AWS Free Tier](https://docs.aws.amazon.com/en_us/awsaccountbilling/latest/aboutv2/billing-free-tier.html) and the ability to control their own costs.
@@ -6,7 +8,7 @@
 4. [ ] Register and pass courses on [AWS Educate](https://www.awseducate.com/). Filter by checking Topic Cloud Computing and Foundational Level. Feel free to pass more.
 5. [ ] Register and pass free courses on [AWS Skillbuilder](https://explore.skillbuilder.aws/learn). AWS Cloud Practitioner Essentials: Core Services, AWS Cloud Practitioner Essentials: Cloud Concepts. Try AWS Cloud Quest: Cloud Practitioner.
 6. [ ] Pass free courses on [Amazon qwiklabs](https://amazon.qwiklabs.com/).
-7. [ ] Review [Getting Started with Amazon EC2](https://aws.amazon.com/ec2/getting-started/?nc1=h_ls). Log Into Your AWS Account, Launch, Configure, Connect and Terminate Your Instance. Do not use Amazon Lightsail. It is recommended to use the t2 or t3.micro instance and the CentOS operating system.
+7. [x] Review [Getting Started with Amazon EC2](https://aws.amazon.com/ec2/getting-started/?nc1=h_ls). Log Into Your AWS Account, Launch, Configure, Connect and Terminate Your Instance. Do not use Amazon Lightsail. It is recommended to use the t2 or t3.micro instance and the CentOS operating system.
 8. Create a snapshot of your instance to keep as a backup.
 9. Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save some file on Disk_D.
 10. Launch the second instance from backup.
